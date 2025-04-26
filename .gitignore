@@ -1,0 +1,20 @@
+# Ignorar ambiente virtual
+.venv/
+venv/
+
+# Ignorar arquivo de configuração sensível
+config.yaml
+
+# Ignorar arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Ignorar pastas do VSCode
+.vscode/
+
+# Ignorar Jupyter checkpoints
+.ipynb_checkpoints/
